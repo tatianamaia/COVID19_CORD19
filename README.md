@@ -1,7 +1,7 @@
-Corona
+COVID19_CORD19
 ==============================
 
-Au secours, Corona arrive
+Kaggle competition.
 
 Project Organization
 ------------
